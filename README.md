@@ -14,45 +14,63 @@
 🌱 You might be interested in the beta website at [https://books.vishnuks.com](https://books.vishnuks.com). Source code live in `app/` directory.
 
 ## Table of Contents
-* [Startups and Business](#startups-and-business)
-* [Philosophy and Psychology](#philosophy-and-psychology)
-* [Autobiographies and Biographies](#autobiographies-and-biographies)
-* [History](#history)
-* [Evolution, Science and Medicine](#science-and-medicine)
-* [Logic and Problem Solving](#logic-and-problem-solving)
-* [Politics](#politics)
-* [Economics](#economics)
-* [Gender](#gender)
-* [Sexuality](#sexuality)
-* [Race](#race)
-* [Education](#education)
-* [Writing](#writing)
-* [Theater and Film](#theater-and-film)
-* [Fiction](#fiction)
-* [Health](#health)
-* [Design](#design)
-* [Travel](#travel)
-* [Language](#language)
-* [Nature](#nature)
+- [Mind Expanding Books](#mind-expanding-books)
+  - [Table of Contents](#table-of-contents)
+- [Books](#books)
+  - [Startups and Business](#startups-and-business)
+  - [Philosophy And Psychology](#philosophy-and-psychology)
+  - [Autobiographies and Biographies](#autobiographies-and-biographies)
+  - [History](#history)
+  - [Science and Medicine](#science-and-medicine)
+  - [Logic and Problem Solving](#logic-and-problem-solving)
+  - [Politics](#politics)
+  - [Economics](#economics)
+  - [Gender](#gender)
+  - [Sexuality](#sexuality)
+  - [Race](#race)
+  - [Education](#education)
+  - [Writing](#writing)
+  - [Theater and Film](#theater-and-film)
+  - [Shakespeare](#shakespeare)
+  - [Fiction](#fiction)
+    - [Classics](#classics)
+    - [Fantasy](#fantasy)
+    - [Historical Fiction](#historical-fiction)
+    - [Humor](#humor)
+    - [Mystery](#mystery)
+    - [Science Fiction](#science-fiction)
+    - [Horror](#horror)
+    - [Miscellaneous](#miscellaneous)
+  - [Health](#health)
+  - [Design](#design)
+  - [Travel](#travel)
+  - [Language](#language)
+  - [Nature](#nature)
+  - [Art](#art)
+  - [Credits](#credits)
+  - [License](#license)
 
 # Books
 
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Never Split the Difference | Chris Voss | [4.40](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
 | Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 |
 | The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger, Joel Lovell | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 |
+| Bad Blood: Secrets and Lies in a Silicon Valley Startup | John Carreyrou | [4.4](https://www.goodreads.com/book/show/37976541-bad-blood) | 2018 |
 | The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
+| Never Split the Difference | Chris Voss | [4.39](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
 | Failing to Succeed: The Story of India's First E-Commerce Company | K. Vaitheeswaran | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 |
 | High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
 | Outwitting the Devil: The Secret to Freedom and Success | Napoleon Hill | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
 | How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
 | The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |
-| The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives | Peter H. Diamandis, Steven Kotler | [4.25](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think) | 2020 |  
+| The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives | Peter H. Diamandis, Steven Kotler | [4.25](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think) | 2020 |
+| The Middle Finger Project | Ash Ambirge | [4.22](https://www.goodreads.com/book/show/46064079-the-middle-finger-project?from_search=true&from_srp=true&qid=WY4obsfps3&rank=1) | 2020 |  
 | The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |  
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
 | Think and Grow Rich | Napoleon Hill | [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
+| AI Superpowers: China, Silicon Valley, and the New World Order |  Kai-Fu Lee | [4.16](https://www.goodreads.com/book/show/38242135-ai-superpowers) | 2018 |
 | Nail it then Scale it: The Entrepreneur's Guide to Creating and Managing Breakthrough | Nathan Furr | [4.13](https://www.goodreads.com/book/show/12236649-nail-it-then-scale-it) | 2011 |
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
 | The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
@@ -95,6 +113,7 @@
 | The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything | Guy Kawasaki | [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
 | Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business | Jeff Howe | [3.82](https://www.goodreads.com/book/show/2601510-crowdsourcing) | 2008 |  
 | Cognitive Surplus: Creativity and Generosity in a Connected Age | Clay Shirky | [3.82](https://www.goodreads.com/book/show/7614793-cognitive-surplus) | 2010 |  
+| Data Driven | D.J. Patil | [3.80](https://www.goodreads.com/book/show/24780653-data-driven) | 2015 |
 | Zero to One | Peter Thiel, Blake Masters | [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) | 2014 |  
 | One Click: Jeff Bezos and the Rise of Amazon.com | Richard Brandt | [3.75](https://www.goodreads.com/book/show/11223478-one-click) | 2011 |  
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
@@ -105,7 +124,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------|
+| Karma Yoga | Swami Vivekanand | [4.51](https://www.goodreads.com/book/show/827031.Karma_Yoga) | 1999 |
 | Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
 | The Slight Edge - Secret to a Successful Life | Jeff Olson | [4.39](https://www.goodreads.com/book/show/590652.The_Slight_Edge) | 2005 |
 | Education and the Significance of Life | Krishnamurti | [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |  
@@ -144,7 +164,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | In Defense of Food: An Eater's Manifesto | Michael Pollan | [4.07](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) | 2008 |  
 | The Blank Slate: The Modern Denial of Human Nature | Steven Pinker | [4.07](http://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2003 |  
 | The History of Western Philosophy | Bertrand Russell | [4.06](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) | 2008 |  
-| Moral Tribes: Emotion, Reason, and the Gap Between Us and Them | Joshua Greene | [4.05](https://www.goodreads.com/book/show/17707599-moral-tribes) | 2013 |  
+| Moral Tribes: Emotion, Reason, and the Gap Between Us and Them | Joshua Greene | [4.05](https://www.goodreads.com/book/show/17707599-moral-tribes) | 2013 |
+| Thus Spoke Zarathustra | Friedrich Nietzsche | [4.05](https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra) | 1883 |
 | The Elephant in the Brain: Hidden Motives in Everyday Life | Kevin Simler, Robin Hanson | [4.05](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain) | 2017 |
 | Quiet: The Power of Introverts in a World That Can't Stop Talking | Susan Cain | [4.04](https://www.goodreads.com/book/show/8520610-quiet) | 2012 |  
 | The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind | Michio Kaku | [4.04](https://www.goodreads.com/book/show/17978489-the-future-of-the-mind) | 2014 |  
@@ -187,6 +208,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | Becoming | Michelle Obama | [4.53](https://www.goodreads.com/book/show/38746485-becoming) | 2018 |  
 | Unbroken: A World War II Story of Survival, Resilience, and Redemption | Laura Hillenbrand | [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
+| Everything Beautiful in Its Time: Seasons of Love and Loss | Jenna Bush Hager | [4.38](https://www.goodreads.com/book/show/51822870-everything-beautiful-in-its-time) | 2020 |
 | Long Walk to Freedom | Nelson Mandela | [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 | 
 | My Life and My Work | Henry Ford | [4.29](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) | 1922 |  
 | Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character | Richard Feynman | [4.29](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) | 1997 |  
@@ -201,6 +223,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Man Who Knew Infinity : A Life of the Genius Ramanujan | Robert Kanigel | [4.15](https://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity) | 1991 |  
 | An Astronaut's Guide to Life on Earth | Chris Hadfield | [4.14](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth) | 2013 |  
 | The Diary of a Young Girl | Anne Frank | [4.10](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) | 1993 |  
+| The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution | Walter Isaacson | [4.10](https://www.goodreads.com/book/show/21856367-the-innovators) | 2014 |
 | Einstein: His Life and Universe | Walter Isaacson | [4.09](https://www.goodreads.com/book/show/10884.Einstein) | 2007 |
 | Steve Jobs | Walter Issacson | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
 | My Experiments with Truth | Mahatma Gandhi | [4.07](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) | 1993 |  
@@ -211,6 +234,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Ghost in the Wires:	My Adventures as the World's Most Wanted Hacker | Kevin Mitnick | [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
 | An Autobiography: Toward Freedom | Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
 | iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It | Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
+
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -219,7 +243,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Discoverers | Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
 | Homo Deus: A History of Tomorrow | Yuval Noah Harari | [4.27](https://www.goodreads.com/book/show/31138556-homo-deus) | 2017 |
 | One Minute to Midnight: Kennedy, Khrushchev, and Castro on the Brink of Nuclear War | Michael Dobbs | [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
-| The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 |  
+| The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet | David Kahn | [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 | 
+| Blindness | José Saramago | [4.13](https://www.goodreads.com/book/show/2526.Blindness) | 1995 |
 | From Dawn to Decadence: 500 Years of Western Cultural Life 1500 to the Present | Jacques Barzun | [4.12](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) | 2001 |  
 | Why the West Rules--for Now: The Patterns of History, and What They Reveal About the Future | Ian Morris | [4.09](https://www.goodreads.com/book/show/9491855-why-the-west-rules-for-now) | 2010 |  
 | The Nazi Doctors: Medical Killing and the Psychology of Genocide | Robert Jay Lifton | [4.07](https://www.goodreads.com/book/show/173187.The_Nazi_Doctors) | 1986 |  
@@ -242,9 +267,11 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Behave: The Biology of Humans at Our Best and Worst | Robert M. Sapolsky | [4.42](https://www.goodreads.com/book/show/31170723-behave) | 2017 |  
-| Asimov's New Guide to Science | Isaac Asimov | [4.36](https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science) | 1985 |  
+| Asimov's New Guide to Science | Isaac Asimov | [4.36](https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science) | 1985 |
+| Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think | Hans Rosling | [4.36](https://www.goodreads.com/book/show/34890015-factfulness) | 2018 |
 | The Gene: An Intimate History | Siddhartha Mukherjee | [4.35](https://www.goodreads.com/book/show/27276428-the-gene) | 2016 |
 | Origins of Form: The Shape of Natural and Man-Made Things | Christopher Williams | [4.31](https://www.goodreads.com/book/show/16255011-origins-of-form) | 2013 |  
+| The Body: A Guide for Occupants | Bill Bryson | [4.31](https://www.goodreads.com/book/show/43582376-the-body) | 2019 | 
 | Gödel, Escher, Bach: An Eternal Golden Braid | Douglas R. Hofstadter | [4.30](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) | 1979 |  
 | The Little Schemer | Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman | [4.27](https://www.goodreads.com/book/show/548914.The_Little_Schemer) | 1995 |  
 | Scientific Genius: A Psychology of Science | Dean Keith Simonton | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
@@ -268,8 +295,10 @@ If you like Mind Expanding books you should check out my new project http://diff
 | At Home in the Universe: The Search for the Laws of Self-Organization and Complexity | Stuart Kauffman | [3.97](https://www.goodreads.com/book/show/319006.At_Home_in_the_Universe) | 1996 |  
 | The Wealth of Networks: How Social Production Transforms Markets and Freedom | Yochai Benkler | [3.95](https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks) | 2006 |  
 | Mind Children: The Future of Robot and Human Intelligence |  Hans Moravec. | [3.95](https://www.goodreads.com/book/show/648195.Mind_Children) | 1990 |  
+| Profiles of the Future: An Inquiry into the Limits of the Possible | Arthur C. Clarke | [3.94](https://www.goodreads.com/book/show/169258.Profiles_of_the_Future) | 1962 |
 | How to Find a Habitable Planet | James Kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
 | The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) | 2009 |  
+| The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements | Sam Kean | [3.91](https://www.goodreads.com/book/show/7247854-the-disappearing-spoon) | 2010 |  
 | Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives | David Sloan Wilson | [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |
 | Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life | J. Craig Venter | [3.87](www.goodreads.com/book/show/17674969-life-at-the-speed-of-light) | 2013 |
 | The Shallows: What the Internet is Doing to Our Brains | Nicholas Carr | [3.85](https://www.goodreads.com/book/show/9778945-the-shallows) | 2011 |  
@@ -292,6 +321,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Problem Solving 101: A Simple Book | Ken Watanabe | [4.10](https://www.goodreads.com/book/show/6271219-problem-solving-101) | 2009 |  
 | Labyrinths of Reason: Paradox, Puzzles, and the Frailty of Knowledge | William Poundstone | [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
 | Mazes for the Mind: Computers and the Unexpected | Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
+| Outnumbered: Exploring the Algorithms That Control Our Lives | David Sumpter | [3.99](https://www.goodreads.com/book/show/36762542-outnumbered) | 2018 |
 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
@@ -316,6 +346,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Economic Facts and Fallacies | Thomas Sowell | [4.18](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) | 2008 |  
 | Debt - Updated and Expanded: The First 5,000 Years | David Graeber | [4.17](https://www.goodreads.com/book/show/6617037-debt) | 2011 |  
 | Capital in the Twenty-First Century | Thomas Piketty | [4.01](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) | 2014 |  
+| Freakonomics: A Rogue Economist Explores the Hidden Side of Everything |  Steven D. Levitt, Stephen J. Dubner | [3.98](https://www.goodreads.com/book/show/1202.Freakonomics) | 2006 |
 | 23 Things They Don't Tell You About Capitalism | Ha-Joon Chang | [3.97](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) | 2010 |  
 | The Signal and the Noise: Why So Many Predictions Fail--but Some Don't | Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | 2012 |  
 | Currency Wars: The Making of the Next Global Crisis | James Rickards | [3.96](https://www.goodreads.com/book/show/11515298-currency-wars) | 2011 |  
@@ -344,12 +375,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Race
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 |  
+| So You Want to Talk About Race | Ijeoma Oluo | [4.53](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) | 2018 | 
+| The Origin of Others | Toni Morrison | [4.22](https://www.goodreads.com/book/show/34758228-the-origin-of-others) | 2017 |
 
 ## Education
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|
-| Educated: A Memoir | Tara Westover| [4.47],(https://www.goodreads.com/book/show/35133922-educated) | 2018 |
+| Educated: A Memoir | Tara Westover| [4.47](https://www.goodreads.com/book/show/35133922-educated) | 2018 |
 | Mindstorms: Children, Computers, And Powerful Ideas | Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
 | The Little Prince | Antoine de Saint-Exupéry | [4,31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
 | How Children Fail | John Holt | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
@@ -410,6 +442,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Jane Eyre | Charlotte Brontë | [4.10](https://www.goodreads.com/book/show/10210.Jane_Eyre) | 1847 |  
 | Germinal | Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 1885 |  
 | If on a Winter's Night a Traveler | Italo Calvino and William Weaver | [4.08](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) | 1979 |  
+| Slaughterhouse-Five | Kurt Vonnegut Jr. | [4.08](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five) | 1969 |
 | The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 1948 |  
 | Sense and Sensibility | Jane Austen | [4.06](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) | 1811 |  
 | The Picture of Dorian Gray | Oscar Wilde | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1890 |  
@@ -470,6 +503,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Kite Runner | Khaled Hosseini | [4.3](https://www.goodreads.com/book/show/77203.The_Kite_Runner) | 2003 |  
 | The Pillars of the Earth | Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 1989 |  
 | Kane and Abel | Jeffrey Archer | [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 1979 |  
+| Memoirs of a Geisha | Arthur Golden | [4.12](https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha) | 1997 |
 | One Day in the Life of Ivan Denisovich | Aleksandr Solzhenitsyn | [4](https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich) | 1962 |
 | Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 1815 |  
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1991 |  
@@ -519,6 +553,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | It | Stephen King | [4.24](https://www.goodreads.com/book/show/830502.It) | 1986 |
 | House of Leaves | Mark Z. Danielewski | [4.13](http://www.goodreads.com/book/show/24800.House_of_Leaves) | 2000 |  
+| If it bleeds | Stephen King | [4.10](https://www.goodreads.com/book/show/46015758-if-it-bleeds) | 2020 |
+| Rosemary's Baby | Ira Levin | [4.00](https://www.goodreads.com/book/show/228296.Rosemary_s_Baby) | 1967 |
 | Dracula | Bram Stoker | [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
 | Frankenstein | Mary Shelley, Maurice Hindle | [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
 
@@ -545,11 +581,12 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Pattern Language: Towns, Buildings, Construction | Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
+| Data visualization handbook | Juuso Koponen, Jonatan Hildén | [4.33](https://www.goodreads.com/book/show/52326089-data-visualization-handbook) | 2019 | 
 | How Buildings Learn: What Happens After They're Built | Stewart Brand | [4.32](https://www.goodreads.com/book/show/38310.How_Buildings_Learn) | 1995 |
 | Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability | Steve Krug | [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
 | The Design of Everyday Things | Donald Norman | [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
 | Mismatch: How Inclusion Shapes Design |  Kat Holmes, John Maeda | [4.14](https://www.goodreads.com/book/show/39644200-mismatch) | 2018 |  
-| The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 |  
+| The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 | 
 
 ## Travel
 | Name | Author | Goodreads Rating | Year Published |  
@@ -565,9 +602,19 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Nature
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| The Wild Places |  Robert Macfarlane | [4.27](https://www.goodreads.com/book/show/2688775-the-wild-places) | 2007 |  
 | The Sixth Extinction: An Unnatural History | Elizabeth Kolbert | [4.13](https://www.goodreads.com/book/show/17910054-the-sixth-extinction) | 2014 |
 | Pilgrim at Tinker Creek | Annie Dillard | [4.11](https://www.goodreads.com/book/show/12527.Pilgrim_at_Tinker_Creek) | 1974 |
+| A Walk in the Woods: Rediscovering America on the Appalachian Trai | Bill Bryson | [4.06](https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods) | 2006 |
+| The Uninhabitable Earth: Life After Warming | David Wallace-Wells | [4.06](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth) | 2019 |
 
+## Art
+
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| The New Drawing on the Right Side of the Brain | Betty Edwards | [3.86](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain) | 1989 |
+| Steal Like an Artist: 10 Things Nobody Told You About Being Creative | Austin Kleon | [3.92](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) | 2012 |
+| Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered | Austin Kleon | [4.10](https://www.goodreads.com/book/show/18290401-show-your-work) | 2014 |
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.
